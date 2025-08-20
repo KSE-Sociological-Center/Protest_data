@@ -1,5 +1,5 @@
 # Протест проти закону № 12414: дослідження
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16903059.svg)](https://doi.org/10.5281/zenodo.16903059)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16914263.svg)](https://doi.org/10.5281/zenodo.16914263)
 
 ## Опитування на площі Івана Франка
 

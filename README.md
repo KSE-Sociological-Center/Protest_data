@@ -31,4 +31,4 @@
 3. Karakai, D., Hatsko, V., & Moskotina, R. (February, 2026). People with Cardboard: Who They Were and Why They Protested. *Ukrainian Analytical Digest*, *17*. URL: https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/ukrainiananalyticaldigest-017.pdf
 
 ## Звіти
-Антонець, К., Москотіна, Р. (2026). *Люди з картонками: хто такі та нащо виходили? Результати опитування на площі Франка та онлайн-опитування* (звіт доступний для завантаження в цьому репозиторії)
+1. Антонець, К., Москотіна, Р. (2026). *Люди з картонками: хто такі та нащо виходили? Результати опитування на площі Франка та онлайн-опитування*. Звіт доступний для завантаження в цьому репозиторії

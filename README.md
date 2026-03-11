@@ -27,4 +27,8 @@
 
 ## Публікації
 1. Каракай Д., Гацко В., & Москотіна Р. Люди з картонками: хто такі та нащо виходили? Результати опитування протестувальників на площі Франка (21 серпня 2025). *Вокс Україна*. URL: https://voxukraine.org/lyudy-z-kartonkamy-hto-taki-ta-nashho-vyhodyly-rezultaty-opytuvannya-protestuvalnykiv-na-ploshhi-franka
-2. Karakai, D., Hatsko, V., & Moskotina, R. Jung, weiblich, erfolgreich: Die Proteste im Sommer 2025 für die Unabhängigkeit der Antikorruptionsbehörden. *Ukraine-Analysen*. URL: https://laender-analysen.de/ukraine-analysen/322/jung-weiblich-erfolgreich-proteste-fuer-die-unabhaengigkeit-der-antikorruptionsbehoerden/
+2. Karakai, D., Hatsko, V., & Moskotina, R. (November, 2025). Jung, weiblich, erfolgreich: Die Proteste im Sommer 2025 für die Unabhängigkeit der Antikorruptionsbehörden. *Ukraine-Analysen*, 322. URL: https://laender-analysen.de/ukraine-analysen/322/jung-weiblich-erfolgreich-proteste-fuer-die-unabhaengigkeit-der-antikorruptionsbehoerden/
+3. Karakai, D., Hatsko, V., & Moskotina, R. (February, 2026). People with Cardboard: Who They Were and Why They Protested. *Ukrainian Analytical Digest*, *17*. URL: https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/ukrainiananalyticaldigest-017.pdf
+
+## Звіти
+Антонець, К., Москотіна, Р. (2026). *Люди з картонками: хто такі та нащо виходили? Результати опитування на площі Франка та онлайн-опитування* (звіт доступний для завантаження в цьому репозиторії)
